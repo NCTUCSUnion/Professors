@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NYCU CS !!@</title>
+    <link>https://professors.nctucsunion.me/</link>
+    <description>Recent content on NYCU CS !!@</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Feb 2022 11:26:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://professors.nctucsunion.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://professors.nctucsunion.me/about/</link>
+      <pubDate>Thu, 17 Feb 2022 11:26:22 +0800</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/about/</guid>
+      <description>系學會教授網站 </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://professors.nctucsunion.me/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Feb 2022 11:26:11 +0800</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/posts/my-first-post/</guid>
+      <description>測試123 </description>
+    </item>
+    
+  </channel>
+</rss>
