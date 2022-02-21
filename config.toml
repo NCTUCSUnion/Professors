@@ -1,24 +1,117 @@
-title = "NYCU CS !!@"
-baseURL = "https://professors.nctucsunion.me/"
-languageCode = "en-us"
-theme = "ananke"
+baseurl = "https://blist.vercel.app"
+metaDataFormat = "yaml"
+title = "Blist Multilingual Theme"
+theme = "blist"
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+DefaultContentLanguage = "zh-tw"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.zh-tw]
+    contentDir = "content/zh-tw" # Chinese
+    weight = 1
+    languageName = "中文"
+    title = "陽交大資工系學會"
+    #description = "Modernes Blog-Theme für Ihre Hugo-Site."
+    [languages.zh-tw.params]
+      introTitle = "你好，我是彭文志"
+      introSubtitle = "歡迎來到交大資工系學會"
+      introPhoto = "/picture.jpg"
+      logo = "/blist-logo-de.png"
+    [[languages.zh-tw.menu.main]]
+        name = "教授列表"
+        url = "blog"
+        weight = 1
+
+    [[languages.zh-tw.menu.main]]
+        name = "關於"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.zh-tw.menu.main]]
+        name = "標籤"
+        url = "tags"
+        weight = 3
+
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 2
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "NYCU CS UNION"
+      introSubtitle = "Introducing professors of NYCU CS department"
+      introPhoto = "/picture.jpg"
+      logo = "/blist-logo.png"
+#    [[languages.en.menu.main]]
+#        name = "Blog"
+#        url = "blog"
+#        weight = 1
+#
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 2
+#
+#    [[languages.en.menu.main]]
+#        name = "Tags"
+#        url = "tags"
+#        weight = 3
+#
+#    [[languages.en.menu.main]]
+#        name = "Top Post"
+#        url = "/en/blog/emoji-support/"
+#        weight = 4
+#
+#
+#  [languages.dy]
+#    contentDir = "content/dy" #Example language
+#    weight = 3
+#    languageName = "Test Language"
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "NYCU CS COUNCIL"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = false
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+  # Custom copyright - optional
+  copyright = "Copyright © 2022 - NYCU CS Union · All rights reserved"
+  favicon = "/favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+[params.homepage.social]
+  # Global params xommon for both languages
+  title = "Follow us"
+  description = "I work on everything coding and tweet developer memes"
+  twitter = "https://www.facebook.com/nctucs.assoc"
+  #linkedin = "https://linkedin.com/in/"
+  #xing = "https://www.xing.com/profile/"
+  github = "https://github.com/NCTUCSUnion"
+  #medium = "https://medium.com/"
+  #reddit = "https://reddit.com/"
+  #dribbble = "https://dribbble.com/"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
