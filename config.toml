@@ -19,7 +19,7 @@ DefaultContentLanguageInSubdir = true
       logo = "/blist-logo-de.png"
     [[languages.zh-tw.menu.main]]
         name = "教授列表"
-        url = "blog"
+        url = "blog/"
         weight = 1
 
     [[languages.zh-tw.menu.main]]
@@ -29,7 +29,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.zh-tw.menu.main]]
         name = "標籤"
-        url = "tags"
+        url = "tags/"
         weight = 3
 
   [languages.en]
@@ -43,7 +43,7 @@ DefaultContentLanguageInSubdir = true
       logo = "/blist-logo.png"
 #    [[languages.en.menu.main]]
 #        name = "Blog"
-#        url = "blog"
+#        url = "blog/"
 #        weight = 1
 #
     [[languages.en.menu.main]]
@@ -53,7 +53,7 @@ DefaultContentLanguageInSubdir = true
 #
 #    [[languages.en.menu.main]]
 #        name = "Tags"
-#        url = "tags"
+#        url = "tags/"
 #        weight = 3
 #
 #    [[languages.en.menu.main]]
