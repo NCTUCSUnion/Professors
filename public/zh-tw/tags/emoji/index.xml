@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/tags/emoji/</link>
+    <description>Recent content in emoji on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>彭文志</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/wc_peng/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/wc_peng/</guid>
+      <description>好好 </description>
+    </item>
+    
+    <item>
+      <title>Emoji-Unterstützung</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/emoji-support/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emojis können in einem Hugo-Projekt auf verschiedene Weise aktiviert werden.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

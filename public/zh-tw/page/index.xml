@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/page/</link>
+    <description>Recent content in Pages on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於</title>
+      <link>https://professors.nctucsunion.me/zh-tw/page/about/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/page/about/</guid>
+      <description>介紹交大資工各教授實驗室，協助學弟妹找到適合的專題指導教授</description>
+    </item>
+    
+  </channel>
+</rss>
