@@ -7,7 +7,7 @@ DefaultContentLanguage = "zh-tw"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.zh-tw]
-    contentDir = "content/zh-tw" # Chinese
+    contentDir = "content/zh-tw/" # Chinese
     weight = 1
     languageName = "中文"
     title = "陽交大資工系學會"
@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
   [languages.en]
-    contentDir = "content/en" #English
+    contentDir = "content/en/" #English
     weight = 2
     languageName = "English"
     [languages.en.params]
@@ -100,7 +100,7 @@ DefaultContentLanguageInSubdir = true
 
 [[menu.main]]
   name = "About"
-  url = "/about"
+  url = "/about/"
 
 [build]
   writeStats = true
