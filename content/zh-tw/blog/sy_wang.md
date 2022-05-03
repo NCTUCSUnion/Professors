@@ -8,7 +8,7 @@ tags: ["物聯網", "機器學習"]
 thumbnail: /images/sy1.png
 ---
 
-#### 名字：王協源教授
+#### 名字：王協源教授受
 #### Email：shieyuan@cs.nycu.edu.tw
 #### 個人網頁：https://people.cs.nctu.edu.tw/~shieyuan/
 #### 實驗室名稱: 網路與系統實驗室 Network and System Laboratory
