@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分散式多媒體系統 on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/tags/%E5%88%86%E6%95%A3%E5%BC%8F%E5%A4%9A%E5%AA%92%E9%AB%94%E7%B3%BB%E7%B5%B1/</link>
+    <description>Recent content in 分散式多媒體系統 on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/%E5%88%86%E6%95%A3%E5%BC%8F%E5%A4%9A%E5%AA%92%E9%AB%94%E7%B3%BB%E7%B5%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>蔡淳仁</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/cj_tsai/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/cj_tsai/</guid>
+      <description>Email：shieyuan@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~cjtsai/ 實驗室名稱: 智慧型嵌入式系統實驗室 Embedded Intelligent Systems Lab (EISL) 研究領域: 目前教授有兩個主要的研究方向。 第一個方向是先進處理器系統單晶片的設計實作。目前已經開源碼了兩個 RISC-V 處理器，首先是一個標準五階流水線的循序執行處理器，可以執行多執緒作業系統， 也包含虛擬記憶體管理電路。其次是一個超純量處理器，目前效能可達 1.84 DMIPS/Mhz 和 CoreMark 2.27。不過這些研究的主要目的是要把作業系統核心 的功能電路化，直接整合在處理器的微架構中。團隊在這方面的研究平台都是 FPGA。 如果是做這方面題目的專題生，教授會先提供相關訓練，再參與改進現有處理器的 某個模組、或是增加軟體執行的完備性做為專題。比方目前教授有一個專題生就在 研究如何用我們開發的處理器 boot Linux 作業系統。另一個專題生則是在研究 如何改善多執行緒軟體執行時的同步指令的執行效能。 第二個研究方向是人工智慧的視覺辨識應用。這方面目前教授專注想解的問題 是如何從單張影像估算出每一隻手的每個手指關節的3D角度。目前我們已經有一套 基於類神經網路的PC展示系統，可以即時估算使用者雙手 3D 姿勢、並畫出對應的 3D 圖。 教授很歡迎感興趣的同學約時間到他的實驗室體驗一下這套系統。 如果是做這方面題目的專題生，除了可以跟著教授的研究生改進系統的數學模型， 也可以把目前在 PC 執行的系統改成用電路或系統單晶片做出來。目前教授有一個 專題生就在嘗試把這個系統的前端計算模型電路化，用 FPGA 實作出來。
+ 專題生須具備的能力與特質： 只要是對技術研發有熱情，做事專注且有耐心就可以進教授的實驗室。不管是專題生或 研究生，教授都是收進實驗室後才針對他們想做的方向開始進行訓練 (包含電路設計)。
+專題主題： 通常教授是會提供幾個題目供學生選。這些題目都是跟他目前在做的研究直接相關。 不過，前年教授就收過兩個很優秀的學士班的學生是帶著自己想做的專題題目來找他 指導，這樣教授也很歡迎。
+專題的學習過程： 主要是系統實作訓練，但在實作過程中為了找到比較好的解問題的方法，也免 不了要讀 papers。如果是靠著讀 papers 來找問題解是本末倒置，不是做有意義 研究該有的做法。
+專題的額外參與： 當然，如果訓練夠了，就可以參與不涉機密的研究計畫。事實上，現在一些 公司和教授進行合作計畫主要目的也是為了吸收優秀的學生，所以就這點而 言，實驗室的角色是協助學生和業界的媒合，業界通常也會額外提供實習機會。
+對於感到挫敗的建議： 關於這點，教授表示，請不要把教授當塑膠。遇到困難多找教授談。教授的責任當然就是協助學生找出卡關的理由，並給出明確的建議來協助學生闖關。
+專題的結果： 教授不會要求學生一定要做出什麼可發表的成果，專題生應該要勇敢去嘗試各種想法。就算 最後做出來成果不如預期，也是好的學習經驗。至於想寫論文的學生，那就要很拚了。 教授過去指導的專題生，是有一位後來和他發表了一篇 IEEE Transaction on CSVT 的長篇論文。 不過教授都跟他那時的研究生開玩笑說，這位學弟在實驗室工作的時間都比你們長。</description>
+    </item>
+    
+  </channel>
+</rss>

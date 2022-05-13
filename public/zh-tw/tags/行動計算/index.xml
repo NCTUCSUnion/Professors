@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行動計算 on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/tags/%E8%A1%8C%E5%8B%95%E8%A8%88%E7%AE%97/</link>
+    <description>Recent content in 行動計算 on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/%E8%A1%8C%E5%8B%95%E8%A8%88%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>林一平</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/yb_lin/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/yb_lin/</guid>
+      <description>Email： liny@cs.nycu.edu.tw 個人網頁： http://liny.csie.nctu.edu.tw/ 實驗室名稱: 行動通訊網路實驗室 Mobile Communication and Network Laboratory 研究領域： 物聯網，AI ＋ IOT，教授從2016年開始建立IOT talk 的系統，如今也仍在進行，農業方面已經成功商業化，其他正在進行的還有像是智慧城市、互動藝術（與建築所、應用藝術系合作）等等。 看學生興趣所在，智慧農藥方面的都可以直接讓學生到智慧農場參觀，互動藝術像是布袋戲，智慧城市像是智慧建築，用AI的方式控制燈、冷氣等，已經有建置好環境，智慧圍籬（監視系統），看學生對於什麼大領域最感興趣，再從中找適合題目
+ 專題生須具備的能力與特質： 修過網路方面的課程，不能怕寫程式，python或c#或javascript, java，看學生能力都可以視情況安排，要會github的使用或是著手開始學習。 建議大家可以先到教授網站，看過IOT talk的tutotial，對各領域的實作更有感覺，清楚自己的能力跟興趣是不是在這方面
+專題主題： 根據大領域讓學生選，再從IOT talk平台架構上，決定要做什麼，物聯網的應用從零開始做較沒辦法深入，所以會讓學生站在學長姐的肩膀、用前人建立好的再繼續應用。
+專題的學習過程： 會告訴學生要讀什麼樣的文件，大多時候是讓同學看過去學長姐做的內容、程式碼，由此往下走，若是走理論相關的，可能會需要看一些跨領域的論文，例如農業方面可能會需要看一些生科論文。
+專題的額外參與: 當然可以，也有學生會成為教授的研究生，專題有機會能繼續延伸變成論文。
+對於感到挫敗的建議： 趕快找學長談一談，沒有遭遇挫折表示沒真正學到東西，挫折越早發生越好，儘早找到答案，未來就能避開，最怕到了最後才發現全部都錯了
+專題的結果： 教授的題目都很具體、明確，教授會要求學生盡力出去比賽，經由比賽可以學到很多東西，檢視自己的成果是不是真的能夠動、能夠永續，同學給自己要把專題拿去比賽這樣的目標 也有機會發paper
+對於仍未找到興趣的學生： 多看，沒事就去各個教授實驗室看看、請問學長姐，多看實驗室的東西就會比較有感覺
+訪問者：常乃璇 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電腦視覺 on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/tags/%E9%9B%BB%E8%85%A6%E8%A6%96%E8%A6%BA/</link>
+    <description>Recent content in 電腦視覺 on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/%E9%9B%BB%E8%85%A6%E8%A6%96%E8%A6%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>彭文孝</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/wh_peng/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/wh_peng/</guid>
+      <description>Email：wpeng@cs.nycu.edu.tww 個人網頁： https://www.cs.nycu.edu.tw/members/detail/wpeng 實驗室名稱: 多媒體架構與處理實驗室 Multimedia Architecture and Processing Laboratory 研究領域： 巨量資料分析、圖形計算、 機器學習、 電腦視覺、MPEG/VCEG國際標準
+ 專題生須具備的能力與特質： 現代 機率 機器學習 深度學習與實務：盡量修老師的課 歡迎想發表頂尖論文會議、想繼續念碩士的學生
+專題主題： 三個方向：學習式影像、視訊壓縮 deep learning based image/video compression（很有商機）, deep learning assisted、電腦視覺 Image compression: Google, Facebook 聯發科之類的大公司都很感興趣
+Hybrid human and machine vision 5G, 6G 頻寬大、delay低，機器跟機器的溝通，影像的壓縮是給機器看的，能不能給人跟機器看是新的議題
+參與國際標準的制定 MPEG
+Computer vision: 解析度的改變 壓縮的時候解析度要降低，在解碼端再還原成高品質的影像，現在正致力發展
+雷達訊號做人類骨架的偵測 與美國華盛頓在合作 rgb 有隱私問題，毫米波看不到長相，特殊的訊號比較少被探討
+詳參：http://mapl.nctu.edu.tw/content/pages/research/MAPL.pdf
+專題的學習過程： 讀很多 寫很多程式 參加國際競賽cvpr workshark? 論文發表
+專題的額外參與: 可以參與實驗室的研究計畫，研究計畫很多都是業界給的研究基金
+對於感到挫敗的建議： 找老師討論，研究就是會失敗的，實驗室希望同學多跟學長跟老師配合，每兩個禮拜就有會議
+專題的結果： 有機會發paper，題目跟學長姐有關，有貢獻的同學都會掛名，可以做一個實際會動的展示系統
+對於仍未找到興趣的學生： 多找幾個老師談談，不要急，要找到自己真正的興趣
+備註： 實驗室有很多國際合作的機會，開會會邀請專題生報告，都是用英文，會跟國外的合作單位用英文溝通</description>
+    </item>
+    
+    <item>
+      <title>林奕成</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/ic_lin/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/ic_lin/</guid>
+      <description>Email：ichenlin@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~ichenlin/ 實驗室名稱: 電腦動畫與互動圖學實驗室 Computer Animation &amp;amp; Interactive Graphics Lab 研究領域： 計算機圖學、電腦視覺、人機互動技術、虛擬/擴增實境
+ 專題生須具備的能力與特質： 要先修過計算機圖學、機器學習等課程、有興趣、看過相關論文
+專題主題： 可以先由學生想想看想做什麼主題，看跟教授在研究的合不合，再去做微調，如果想不到教授也可以提供
+專題的學習過程： 分成兩類型：做遊戲類的就學遊戲引擎、研究型的就看 paper
+專題的額外參與： 如果題目與實驗室相關，可以使用實驗室的相關資源
+對於感到挫敗的建議： 建議先學好基礎知識，會比較順利，教授也會請研究生來帶專題生，減少新手挫折感
+專題的結果： 研究類型的，如果夠成熟，可以發 paper，遊戲類型的則可以去比賽
+對於仍未找到興趣的學生： 可以多修點系上專業選修課，探索不同領域，也發掘自身的興趣
+訪問者：莊婕妤 </description>
+    </item>
+    
+    <item>
+      <title>林彥宇</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/yy_lin/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/yy_lin/</guid>
+      <description>Email：lin@cs.nctu.edu.tw 個人網頁：https://sites.google.com/site/yylinweb/ 實驗室名稱：Vision and Learning Lab 研究領域： 電腦視覺、機器學習、深度學習、人工智慧
+專題生須具備的能力與特質： 有興趣比較重要，有修過機器學習概論、圖形識別概論、人工智慧概論會加分
+專題主題： 通常都是教授提供學生幾個題目選擇，再讓他們填志願
+專題的學習過程： 會先讓學生熟悉寫程式及 deep learning，再安排他們深入研究 paper，一到兩週會有一次的 meeting
+專題的額外參與： 少部份的學生會參與實驗室的計畫，前幾屆的學生有拿到科技部大專生計畫
+對於感到挫敗的建議： 教授一開始通常不會給學生太難的功課，所以不會到太挫折
+專題的結果： 基本要求是可以熟悉電腦視覺及機器學習相關的題目，剩下就看學生願意付出的時間多寡，以往也有學生最後發佈了 paper
+對於仍未找到興趣的學生： 可以多去聽聽教授介紹實驗室，也可以多問問學長姐建議
+訪問者：莊婕妤 </description>
+    </item>
+    
+    <item>
+      <title>邱維辰</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/wc_chiu/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/wc_chiu/</guid>
+      <description>Email：walon@cs.nycu.edu.tw 個人網頁：https://walonchiu.github.io/ 實驗室名稱：Enriched Vision Applications Lab 研究領域： 電腦視覺結合深度學習
+專題生須具備的能力與特質： 教授會安排研究生跟學生進行訪談，主要看學生對這個主題有沒有興趣及熱忱。需要先修的課程包括微積分、機率、機器學習、影像處理等等，也可以上網自學。
+專題主題： 教授不太會提供主題，主要希望學生自行發想，再來找學長姊討論
+專題的學習過程： 主要會看線上課程做學習
+專題的額外參與： 若為研究型的題目，則可以參與研究室的計畫
+對於感到挫敗的建議： 遇到不懂的東西，就找學長姊討論，或是上網學習線上資源
+專題的結果： 有些會將研究出的結果作成一個 report，若為更長時間的研究則有機會發 paper
+對於仍未找到興趣的學生： 接觸多一點的領域，動手做多一點 project，較容易發覺自己有興趣的是什麼。做的專題一定要是自己有興趣的，不然遇到問題時會沒有動力去解決。
+訪問者：莊婕妤 </description>
+    </item>
+    
+    <item>
+      <title>陳冠文</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/kw_chen/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/kw_chen/</guid>
+      <description>Email：kuanwen@cs.nycu.edu.tw 個人網頁： http://www.cs.nctu.edu.tw/~kuanwen 實驗室名稱：協同視覺實驗室 CoVis Lab 研究領域： 無人機、視覺定位……等相關延伸應用
+ 專題生須具備的能力與特質：  沒有特別要求，因為在大學部不太能修到電腦視覺相關的課程 專題生一開始會有新生訓練，可以得到初步的了解，不用太擔心 會寫程式即可  專題主題： 沒有限定，專題生可以自行決定任何跟電腦視覺有關的題目去做，也可以做跟實驗室研究相關的題目
+專題的學習過程： 一學期指定報告一篇paper
+專題的額外參與： 專題生會參與實驗室的meeting
+對於感到挫敗的建議： 不太會遇到專題生有挫折的問題，教授對於專題的標準沒有很高
+專題的結果： 對於自己選擇的題目做出一個應用即可，創不創新為其次
+對於仍未找到興趣的學生： 可以多做詢問，或是直接去嘗試，專題也是一種找到自己是否有興趣的方式，進而在研究所的時候會比較知道自己想改變研究領域還是繼續研究。
+訪問者：林念慈 </description>
+    </item>
+    
+  </channel>
+</rss>

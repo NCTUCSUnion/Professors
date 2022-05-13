@@ -5,6 +5,7 @@ description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatie
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: https://picsum.photos/id/1019/500/200
+draft: true
 ---
 
 Dieser Artikel bietet ein Beispiel für die grundlegende Markdown-Syntax, die in Hugo-Inhaltsdateien verwendet werden kann, und zeigt auch, ob grundlegende HTML-Elemente mit CSS in einem Hugo-Theme dekoriert sind.

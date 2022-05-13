@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>巨量資料分析 on 陽交大資工系學會</title>
+    <link>https://professors.nctucsunion.me/zh-tw/tags/%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 巨量資料分析 on 陽交大資工系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>彭文孝</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/wh_peng/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/wh_peng/</guid>
+      <description>Email：wpeng@cs.nycu.edu.tww 個人網頁： https://www.cs.nycu.edu.tw/members/detail/wpeng 實驗室名稱: 多媒體架構與處理實驗室 Multimedia Architecture and Processing Laboratory 研究領域： 巨量資料分析、圖形計算、 機器學習、 電腦視覺、MPEG/VCEG國際標準
+ 專題生須具備的能力與特質： 現代 機率 機器學習 深度學習與實務：盡量修老師的課 歡迎想發表頂尖論文會議、想繼續念碩士的學生
+專題主題： 三個方向：學習式影像、視訊壓縮 deep learning based image/video compression（很有商機）, deep learning assisted、電腦視覺 Image compression: Google, Facebook 聯發科之類的大公司都很感興趣
+Hybrid human and machine vision 5G, 6G 頻寬大、delay低，機器跟機器的溝通，影像的壓縮是給機器看的，能不能給人跟機器看是新的議題
+參與國際標準的制定 MPEG
+Computer vision: 解析度的改變 壓縮的時候解析度要降低，在解碼端再還原成高品質的影像，現在正致力發展
+雷達訊號做人類骨架的偵測 與美國華盛頓在合作 rgb 有隱私問題，毫米波看不到長相，特殊的訊號比較少被探討
+詳參：http://mapl.nctu.edu.tw/content/pages/research/MAPL.pdf
+專題的學習過程： 讀很多 寫很多程式 參加國際競賽cvpr workshark? 論文發表
+專題的額外參與: 可以參與實驗室的研究計畫，研究計畫很多都是業界給的研究基金
+對於感到挫敗的建議： 找老師討論，研究就是會失敗的，實驗室希望同學多跟學長跟老師配合，每兩個禮拜就有會議
+專題的結果： 有機會發paper，題目跟學長姐有關，有貢獻的同學都會掛名，可以做一個實際會動的展示系統
+對於仍未找到興趣的學生： 多找幾個老師談談，不要急，要找到自己真正的興趣
+備註： 實驗室有很多國際合作的機會，開會會邀請專題生報告，都是用英文，會跟國外的合作單位用英文溝通</description>
+    </item>
+    
+  </channel>
+</rss>
