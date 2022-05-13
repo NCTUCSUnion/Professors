@@ -1,0 +1,58 @@
+---
+author: "soulrrrrr,jerryyyyy708"
+title: "吳毅成"
+date: 2022-05-05
+lastmod: 2022-05-05
+description: "電腦遊戲與智慧實驗室 Computer Games and Intelligence Laboratory"
+tags: ["人工智慧", "機器學習", "電腦遊戲"]
+thumbnail: /images/ic_wu.png
+---
+
+#### Email：icwu@cs.nycu.edu.tw
+
+#### 個人網頁： [https://cgilab.nctu.edu.tw/~icwu/](https://cgilab.nctu.edu.tw/~icwu/)
+
+#### 實驗室名稱: 電腦遊戲與智慧實驗室 Computer Games and Intelligence Laboratory
+
+#### 研究領域：
+
+computer games並延伸至deep reinforcements learning，目前實驗室主要做deep reinforcements learning之各種應用，包含棋牌類、video games、互動式遊戲、robotic、小型賽車、工廠排程、智慧路網等
+專題生建議從computer games入手，從中學習deep reinforcements 的技術
+
+---
+
+#### 專題生須具備的能力與特質：
+
+資料結構、演算法為基本，有人工智慧的知識更好，教授會視學生個人狀況作安排
+
+#### 專題主題：
+
+跟教授一起討論，通常以遊戲為主，從學生喜歡的遊戲入手，針對遊戲的難易度、是否有人做過研究了等等，再跟教授討論什麼樣的遊戲合適
+
+#### 專題的學習過程：
+
+學習怎麼解遊戲的問題，從中學到machine learning, AI 的能力
+
+#### 專題的額外參與:
+
+看學生的興趣所在，若學生對實驗室的研究內容有興趣，像是工廠排程、智慧路網，並可以commit跟學長合作，是有機會參與實驗室的研究的
+但對沒有經驗或是沒有想法的同學，還是建議從遊戲下手
+
+#### 對於感到挫敗的建議：
+
+把遊戲當作主題通常不會太過挫折或失落，有比賽的話更可以激起大家的鬥志
+
+#### 專題的結果：
+
+把學到的、得到的能力，實際派上用場，有些遊戲有競賽可以參加。
+也有機會Submit paper，且會鼓勵同學參加專題競賽、投國內的會議，看情況再投國際的會議、頂尖的會議，不過後者會需要同學比較大的commitment。
+
+#### 對於仍未找到興趣的學生：
+
+來找教授的學生通常都對遊戲頗有興趣，比較少遇到這樣的問題
+
+#### 備註：
+
+（若需要聯絡教授可以同時cc教授助理柯小姐：cindyko@nycu.edu.tw ）
+
+#### 訪問者：常乃璇
