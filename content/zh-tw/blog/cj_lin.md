@@ -5,7 +5,7 @@ date: 2022-05-08
 lastmod: 2022-05-08
 description: "網路與感測系統實驗室 Networking and Sensing Systems Lab"
 tags: ["5G跨層協定設計", "機器學習網路架構設計", "射頻感測應用服務"]
-thumbnail: /images/kate_lin.png
+thumbnail: /images/cj_lin.png
 ---
 
 #### Email：katelin@cs.nycu.edu.tw

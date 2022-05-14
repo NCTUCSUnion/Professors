@@ -8,8 +8,6 @@ tags: ["物聯網", "機器學習"]
 thumbnail: /images/sy_wang.png
 ---
 
-#### 名字：王協源教授
-
 #### Email：shieyuan@cs.nycu.edu.tw
 
 #### 個人網頁：[https://people.cs.nctu.edu.tw/~shieyuan/](https://people.cs.nctu.edu.tw/~shieyuan/)

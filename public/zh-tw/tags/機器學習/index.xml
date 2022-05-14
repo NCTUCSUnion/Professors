@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>機器學習 on 陽交大資工系學會</title>
+    <title>機器學習 on 教授專題介紹網站</title>
     <link>https://professors.nctucsunion.me/zh-tw/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/</link>
-    <description>Recent content in 機器學習 on 陽交大資工系學會</description>
+    <description>Recent content in 機器學習 on 教授專題介紹網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -86,7 +86,7 @@ Computer vision: 解析度的改變 壓縮的時候解析度要降低，在解�
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://professors.nctucsunion.me/zh-tw/blog/sy_wang/</guid>
-      <description>名字：王協源教授 Email：shieyuan@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~shieyuan/ 實驗室名稱: 網路與系統實驗室 Network and System Laboratory  研究領域: 目前是物聯網、機器學習、穿戴式技術、網路安全魚塭建萬(以後可能會變)
+      <description>Email：shieyuan@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~shieyuan/ 實驗室名稱: 網路與系統實驗室 Network and System Laboratory  研究領域: 目前是物聯網、機器學習、穿戴式技術、網路安全魚塭建萬(以後可能會變)
 專題生須具備的能力與特質： 要修過計網概、要抱持很大的決心、目標跟動力(老師很少收專題生)
 專題主題： 老師會提供最近老師感興趣的題目跟方向
 專題的學習過程： 老師會很熱心的教學，每兩三周會面對面meeting一次

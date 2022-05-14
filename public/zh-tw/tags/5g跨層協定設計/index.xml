@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5G跨層協定設計 on 陽交大資工系學會</title>
+    <title>5G跨層協定設計 on 教授專題介紹網站</title>
     <link>https://professors.nctucsunion.me/zh-tw/tags/5g%E8%B7%A8%E5%B1%A4%E5%8D%94%E5%AE%9A%E8%A8%AD%E8%A8%88/</link>
-    <description>Recent content in 5G跨層協定設計 on 陽交大資工系學會</description>
+    <description>Recent content in 5G跨層協定設計 on 教授專題介紹網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/tags/5g%E8%B7%A8%E5%B1%A4%E5%8D%94%E5%AE%9A%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>林靖茹</title>
-      <link>https://professors.nctucsunion.me/zh-tw/blog/kate_lin/</link>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/cj_lin/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://professors.nctucsunion.me/zh-tw/blog/kate_lin/</guid>
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/cj_lin/</guid>
       <description>Email：katelin@cs.nycu.edu.tw 個人網頁：http://people.cs.nctu.edu.tw/~katelin/ 實驗室名稱：網路與感測系統實驗室 Networking and Sensing Systems Lab 研究領域： 5G跨層協定設計、機器學習網路架構設計、射頻感測應用服務
  專題生須具備的能力與特質： 要先修過計算機網路概論，最好修過其他相關課程，例：通訊原理與無線網路、Unix、SDN，但也可以進去再學
 專題主題： 教授通常會提供幾個主題給學生選擇

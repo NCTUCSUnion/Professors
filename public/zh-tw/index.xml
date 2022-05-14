@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陽交大資工系學會</title>
+    <title>教授專題介紹網站</title>
     <link>https://professors.nctucsunion.me/zh-tw/</link>
-    <description>Recent content on 陽交大資工系學會</description>
+    <description>Recent content on 教授專題介紹網站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://professors.nctucsunion.me/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>蕭子健</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/tc_hsiao/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/tc_hsiao/</guid>
+      <description>Email：labview@cs.nctu.edu.tw 個人網頁： https://sites.google.com/site/labview704/Home 實驗室名稱: 虛擬生醫管理實驗室 Virtual Biomedical Management Lab 研究領域：1. 開發 AI 相關的演算法 2. 生醫應用。 專題生須具備的能力與特質： 系上同學都很優秀，因此，已具備基礎能力。但由於研究屬性，建議要有強烈學習動機
+專題主題： 端是學生們而定。大多有自己想法，然後，學習與嘗試！
+專題的學習過程： 閱讀相關文獻，實驗設計、簡報！
+專題的額外參與： 沒有限制，端視研究主題！
+對於感到挫敗的建議： 運動吧，調整心情！
+專題的結果： 研究成果有所創新，彙整後都鼓勵發表。至於形式，則需端視領域別。
+對於仍未找到興趣的學生： 可找學長姊、導師晤談，從發想到收斂需要時間，慢慢來，找出自己興趣之處！
+訪問者：徐聖哲 </description>
+    </item>
+    
+    <item>
+      <title>謝續平</title>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/sp_shieh/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/sp_shieh/</guid>
+      <description>Email：ssp@cs.nycu.edu.tw 個人網頁： https://dsns.cs.nycu.edu.tw/ssp.php 實驗室名稱: 分散式系統與網路安全實驗室 Distributed System &amp;amp; Network Security Lab 研究領域：  網路安全AI智能化運用 企業資安 入侵偵測智能可視化 網路攻防與威脅分析  專題生須具備的能力與特質： 主要還是希望同學要有興趣再來做專題，如果可以的話，推薦可以修網路概論還有作業系統
+專題主題： 主要是實現攻擊串鏈，用系統現成的utility來實現攻擊的模型，再了解防禦端怎麼了解攻擊；如果有興趣也可以觀察攻擊的過程
+專題的學習過程： 主要專題的藍圖由老師設計，有想法都可以用互動式的方法討論，其他細節交由學長姐帶領，每週見面討論進度，希望能多多和教授和學長姐溝通。
+專題的額外參與： 無
+對於感到挫敗的建議： 難免會遇到撞牆期，需要靠自己去克服。 端看你願意投入多少時間，只怕沒興趣繼續做下去
+專題的結果： 可能會有一個應用的成果
+對於仍未找到興趣的學生： 可以透過專題知道自己喜歡什麼，因為上課只有接受收，可是專題是雙向的學習，能讓自己的思想更成熟；多跟教授討論也是一個不錯的方法
+訪問者：徐聖哲 </description>
+    </item>
+    
     <item>
       <title>張永儒</title>
       <link>https://professors.nctucsunion.me/zh-tw/blog/yj_chang/</link>
@@ -124,10 +156,10 @@ Computer vision: 解析度的改變 壓縮的時候解析度要降低，在解�
     
     <item>
       <title>林靖茹</title>
-      <link>https://professors.nctucsunion.me/zh-tw/blog/kate_lin/</link>
+      <link>https://professors.nctucsunion.me/zh-tw/blog/cj_lin/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://professors.nctucsunion.me/zh-tw/blog/kate_lin/</guid>
+      <guid>https://professors.nctucsunion.me/zh-tw/blog/cj_lin/</guid>
       <description>Email：katelin@cs.nycu.edu.tw 個人網頁：http://people.cs.nctu.edu.tw/~katelin/ 實驗室名稱：網路與感測系統實驗室 Networking and Sensing Systems Lab 研究領域： 5G跨層協定設計、機器學習網路架構設計、射頻感測應用服務
  專題生須具備的能力與特質： 要先修過計算機網路概論，最好修過其他相關課程，例：通訊原理與無線網路、Unix、SDN，但也可以進去再學
 專題主題： 教授通常會提供幾個主題給學生選擇
@@ -368,7 +400,7 @@ Computer vision: 解析度的改變 壓縮的時候解析度要降低，在解�
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://professors.nctucsunion.me/zh-tw/blog/sy_wang/</guid>
-      <description>名字：王協源教授 Email：shieyuan@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~shieyuan/ 實驗室名稱: 網路與系統實驗室 Network and System Laboratory  研究領域: 目前是物聯網、機器學習、穿戴式技術、網路安全魚塭建萬(以後可能會變)
+      <description>Email：shieyuan@cs.nycu.edu.tw 個人網頁：https://people.cs.nctu.edu.tw/~shieyuan/ 實驗室名稱: 網路與系統實驗室 Network and System Laboratory  研究領域: 目前是物聯網、機器學習、穿戴式技術、網路安全魚塭建萬(以後可能會變)
 專題生須具備的能力與特質： 要修過計網概、要抱持很大的決心、目標跟動力(老師很少收專題生)
 專題主題： 老師會提供最近老師感興趣的題目跟方向
 專題的學習過程： 老師會很熱心的教學，每兩三周會面對面meeting一次

@@ -8,7 +8,7 @@ tags: ["個人通信網路", "行動計算", "系統模擬"]
 thumbnail: /images/yb_lin.png
 ---
 
-#### Email：  liny@cs.nycu.edu.tw
+#### Email： liny@cs.nycu.edu.tw
 
 #### 個人網頁： [http://liny.csie.nctu.edu.tw/](http://liny.csie.nctu.edu.tw/)
 
